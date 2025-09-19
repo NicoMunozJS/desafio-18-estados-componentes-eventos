@@ -1,7 +1,6 @@
-# 📌 Hito 2 - Pizzería Mamma Mía
+# 📌 Hito 18 – Pizzería Mamma Mía
 
-Este proyecto corresponde al **Hito 2 del bootcamp Desafío Latam**.  
-El objetivo es **validar conocimientos de Estados y Eventos en React**, mediante la creación de formularios de **Registro y Login** interactivos.
+Este proyecto corresponde al **Hito 18 del bootcamp Desafío Latam**, donde se aplican los conocimientos de **Estados y Eventos en React**, mediante la creación de formularios de **Registro y Login** interactivos.
 
 ---
 
@@ -10,7 +9,7 @@ El objetivo es **validar conocimientos de Estados y Eventos en React**, mediante
 - Crear formularios controlados usando **React y useState**.  
 - Aplicar validaciones en los formularios antes de enviar los datos.  
 - Manejar eventos de usuario para mostrar **mensajes de éxito o error**.  
-- Integrar los formularios con el diseño base de la aplicación (Navbar, Footer).  
+- Integrar los formularios con el diseño base de la aplicación (**Navbar**, **Footer**).  
 
 ---
 
@@ -36,15 +35,16 @@ El objetivo es **validar conocimientos de Estados y Eventos en React**, mediante
 ## 🛠️ Tecnologías utilizadas
 
 - React 18  
-- JavaScript (JSX, useState, eventos)  
+- JavaScript (JSX, useState, manejo de eventos)  
 - CSS3  
 - Bootstrap 5  
 - Vite como bundler  
 - Git para control de versiones  
 
+---
+
 ## ▶️ Cómo ejecutar el proyecto
 
 1. Clona este repositorio:
-
 ```bash
-git clone https://github.com/imignaciotwentythree/pizzeria-mammamia-2.git
+git clone https://github.com/NicoMunozJS/desafio-18-estados-componentes-eventos
